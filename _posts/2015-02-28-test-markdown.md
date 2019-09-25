@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post!!
+title: Feeerrrr first Post!!
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
